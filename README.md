@@ -16,5 +16,5 @@ python3 recon.py target.com
 ----
 
 #TODO
-- airflow 分布式 、worker docker 制作、webserver worker 制作 [ ]
-- 站点信息抓取 ( js link、ssl、web cms ) [ ]
+- [ ] airflow 分布式 、worker docker 制作、webserver worker 制
+- [ ] 站点信息抓取 ( js link、ssl、web cms )
