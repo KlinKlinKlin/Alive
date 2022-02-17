@@ -1,0 +1,13 @@
+shuziguanxing.com
+hao.shuziguanxing.com
+fp.shuziguanxing.com
+harbor.shuziguanxing.com
+gitlab.shuziguanxing.com
+www.shuziguanxing.com
+pan.shuziguanxing.com
+we.shuziguanxing.com
+demo.tp.shuziguanxing.com
+nexus.shuziguanxing.com
+poc.shuziguanxing.com
+weixin.shuziguanxing.com
+sso.shuziguanxing.com

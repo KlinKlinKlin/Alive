@@ -1,0 +1,15 @@
+in.mail.sign.plus
+mail.sign.plus
+status.sign.plus
+www.sign.plus
+blog.sign.plus
+staging.beta.sign.plus
+storage.sign.plus
+app.sign.plus
+api.sign.plus
+staging.sign.plus
+beta.sign.plus
+help.beta.sign.plus
+sign.plus
+blog.beta.sign.plus
+help.sign.plus
